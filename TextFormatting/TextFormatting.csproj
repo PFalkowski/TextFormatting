@@ -2,6 +2,15 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Description>Thin .NET standard package containing one interface IFormatter&lt;T&gt; with member Format(T) and one InvariantCulture implementation. Use, when you often override ToString() or add some 'Verbose()' methods yet do not want to miss S in SOLID.</Description>
+    <PackageProjectUrl>https://github.com/PFalkowski/TextFormatting</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/PFalkowski/TextFormatting</RepositoryUrl>
+    <PackageTags>IFormattable, IFormatProvider, ICustomFormatter</PackageTags>
+    <Copyright>Piotr Falkowski © 2018</Copyright>
+    <PackageLicenseUrl>https://opensource.org/licenses/MIT</PackageLicenseUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageReleaseNotes>initial release</PackageReleaseNotes>
   </PropertyGroup>
 
 </Project>
