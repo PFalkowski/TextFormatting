@@ -4,7 +4,7 @@ using System.Text;
 
 namespace TextFormatting
 {
-    public interface IFormatter<T>
+    public interface IFormatter<in T>
     {
         string Format(T input);
     }
