@@ -10,7 +10,8 @@
     <Copyright>Piotr Falkowski © 2018</Copyright>
     <PackageLicenseUrl>https://opensource.org/licenses/MIT</PackageLicenseUrl>
     <RepositoryType>git</RepositoryType>
-    <PackageReleaseNotes>initial release</PackageReleaseNotes>
+    <PackageReleaseNotes>IFormater moved to StandardInterfaces NuGet https://www.nuget.org/packages/StandardInterfaces/</PackageReleaseNotes>
+    <Version>2.0.0</Version>
   </PropertyGroup>
 
 </Project>
