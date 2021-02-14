@@ -8,10 +8,11 @@
     <RepositoryUrl>https://github.com/PFalkowski/TextFormatting</RepositoryUrl>
     <PackageTags>IFormattable, IFormatProvider, ICustomFormatter</PackageTags>
     <Copyright>Piotr Falkowski © 2018</Copyright>
-    <PackageLicenseUrl>https://opensource.org/licenses/MIT</PackageLicenseUrl>
+    <PackageLicenseUrl></PackageLicenseUrl>
     <RepositoryType>git</RepositoryType>
     <PackageReleaseNotes>IFormater moved to StandardInterfaces NuGet https://www.nuget.org/packages/StandardInterfaces/</PackageReleaseNotes>
     <Version>2.0.0</Version>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
 
 </Project>
