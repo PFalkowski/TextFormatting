@@ -7,7 +7,7 @@
     <PackageProjectUrl>https://github.com/PFalkowski/TextFormatting</PackageProjectUrl>
     <RepositoryUrl>https://github.com/PFalkowski/TextFormatting</RepositoryUrl>
     <PackageTags>IFormattable, IFormatProvider, ICustomFormatter</PackageTags>
-    <Copyright>Piotr Falkowski © 2018</Copyright>
+    <Copyright>Piotr Falkowski © 2021</Copyright>
     <PackageLicenseUrl></PackageLicenseUrl>
     <RepositoryType>git</RepositoryType>
     <PackageReleaseNotes>IFormater moved to StandardInterfaces NuGet https://www.nuget.org/packages/StandardInterfaces/</PackageReleaseNotes>
